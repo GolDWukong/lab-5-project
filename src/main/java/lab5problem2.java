@@ -6,7 +6,7 @@ import java.util.Random ;
 
 /**
  *
- * @author tatev(aka yo mama)
+ * @author tatev(aka yo mamas fatha)
  */
 public class lab5problem2 {
 
