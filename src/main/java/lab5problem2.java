@@ -6,7 +6,7 @@ import java.util.Random ;
 
 /**
  *
- * @author tatev
+ * @author tatev(aka yo mama)
  */
 public class lab5problem2 {
 
@@ -30,9 +30,7 @@ return highestValue;
 
 }
 
- 
-
-// lowest value
+// low
 
 public static int getLowest(int[] arr){
 
@@ -52,7 +50,7 @@ return lowestValue;
 
 }
 
-// average value
+// average
 
 public static double getAverage(int[] arr){
 
@@ -93,11 +91,9 @@ public static void main(String[] args) {
 int[] arr = new int[]{12, 45, 98, 33, 54};
 
 
-
 int total = getTotal(arr);
 
 System.out.println("Total of given vales in array: "+total);
-
 
 
 double average = getAverage(arr);
